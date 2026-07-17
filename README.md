@@ -113,3 +113,11 @@ WASD 移動
 マウス左クリック、長押し球発射
 
 https://keifujioka.github.io/Portfolio/Shooting/index.html
+
+--- Physics ---
+### 制作時間
+ 4時間
+### こだわり
+大きさの違う球と着弾時に爆発する球
+### 操作方法
+マウス左クリックのドラックで球を飛ばす、左クリックでボタンを押し球を変える
