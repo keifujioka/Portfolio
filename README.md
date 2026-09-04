@@ -145,3 +145,11 @@ https://keifujioka.github.io/Portfolio/BallRolling/index.html
 
 https://keifujioka.github.io/Portfolio/3DFPS/index.html
 
+--- NewMusic ---
+### 制作時間
+ 3.5時間
+### こだわり
+MusicGameを改修しjsonで難易度別の盤面を実装
+### 操作方法
+DFJKキーで対応したレーンのノーツを押す、長押し
+スペースで難易度選択へ遷移、マウス左クリックで難易度選択、リザルト画面でスペースキーを押すとタイトルへ遷移
